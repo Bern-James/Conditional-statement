@@ -1,0 +1,21 @@
+
+public class If-Else {
+
+   public static void main(String[] args) {
+        int score= 92;
+        
+        if(score >= 90)
+            System.out.printIn("you score a " + score + " on the exam.");
+               
+               else
+                  System.out.printIn("you scored a " + score + " on the exam.");
+                  
+                  
+                  }
+                  
+                  
+                  
+                  }
+                  
+                  
+                  
